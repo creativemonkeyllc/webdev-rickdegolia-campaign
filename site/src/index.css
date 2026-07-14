@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap');
+
+:root {
+  --color-page: #eeece6;
+  --color-surface: #f8f7f3;
+  --color-surface-strong: #f2f0e8;
+  --color-border: #c7c2b5;
+  --color-rule: #b5af9f;
+  --color-text: #2f3336;
+  --color-text-muted: #5f666b;
+  --color-text-strong: #101820;
+  --color-primary: #1f3a5a;
+  --color-primary-soft: rgba(31, 58, 90, 0.08);
+  --color-accent: #9b7a3f;
+
+  --font-body: 'Libre Franklin', 'Segoe UI', Tahoma, sans-serif;
+  --font-heading: 'Source Serif 4', Georgia, serif;
+
+  font-family: var(--font-body);
+  line-height: 1.58;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    linear-gradient(180deg, rgba(31, 58, 90, 0.06) 0%, rgba(31, 58, 90, 0) 24%),
+    linear-gradient(120deg, #f4f2ec 0%, var(--color-page) 42%, #e8e4da 100%);
+  color: var(--color-text);
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-heading);
+  line-height: 1.12;
+  letter-spacing: 0.01em;
+}
+
+#root {
+  min-height: 100vh;
+}
