@@ -109,18 +109,20 @@ function About() {
             </p>
 
             <p>
-              In 2013, Rick stepped up to run for the Council seat vacated by Jerry Carlson,
-              winning 63% of the vote. He had been serving as Vice Chair of the newly formed
+              After the 2012 City Council election, Rick was appointed as the Vice Chair of the newly formed
               Civic Center Advisory Committee (CCAC), the body that would shape the design of
               Atherton's entire new civic campus, and he channeled that energy directly into
-              elected service.
+              elected service. He also became Chair of the CCAC's initially capitalized library and
+              initially capitalized subcommittee, what was responsible for what ultimately became our
+              wonderful library.
             </p>
 
             <p>
-              In the years since, he has served as Mayor three times, founded and chaired
-              Peninsula Clean Energy's 23-member board, represented Atherton on the San Mateo
-              Library Governing Board, and been liaison to the Civic Center Advisory, Finance and
-              Audit, and Park and Recreation Committees.
+              In 2013, Rick stepped up to run for an open City Council seat,
+              winning 63% of the vote. In the years since, he has served as Mayor three times, founded and chaired
+              Peninsula Clean Energy's 23-member board  of directors, represented Atherton on the San Mateo
+              Library Governing Board, and been liaison to the CCAC, the Finance and
+              Audit, and the Park and Recreation Committees.
             </p>
 
             <p>

@@ -11,10 +11,10 @@ function Issues() {
 
       <section className="page issues-card">
         <p className="issues-subheadline">
-          These are not campaign promises. These are the priorities Rick has demonstrated through
-          thirteen years of committed service to Atherton. Being a genuine representative, Rick
-          believes that the singular job of an acting council member is to lead by reaching out to
-          residents, listening to their concerns, and always representing their needs.
+          These are not campaign promises. These are the priorities that Rick has demonstrated through
+          thirteen years of committed service to Atherton. Rick believes that the principal job of an 
+          acting council member is to lead by reaching out to residents, listening to their concerns, 
+          and always representing their needs.
         </p>
 
         <ol className="issues-list">

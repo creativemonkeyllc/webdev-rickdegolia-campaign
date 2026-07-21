@@ -3,7 +3,7 @@ export const ISSUES = [
     slug: 'fiscal-discipline-long-term-solvency',
     title: 'Fiscal Discipline & Long-term Solvency',
     summary:
-      'Continuing to reduce pension liabilities, maintain reserves, and ensure that every capital project is funded responsibly without burdening future residents.',
+      'Continuing to reduce pension liabilities, maintain reserves, and ensure that every capital project is funded responsibly based on its importance to Atherton and its residents.',
   },
   {
     slug: 'housing-protecting-athertons-character',
@@ -27,7 +27,7 @@ export const ISSUES = [
     slug: 'public-safety-and-infrastructure',
     title: 'Public Safety & Infrastructure',
     summary:
-      'The police department is at full headcount in a facility that officers want to work in. Rick will ensure Atherton continues to attract and retain the public safety talent needed to protect residents, while maintaining critical infrastructure that supports reliable service.',
+      'The police department is at full headcount in a facility that officers want to work in. Rick will ensure Atherton continues to attract and retain the public safety talent needed to protect residents, while maintaining critical infrastructure that supports reliable community policing.',
   },
   {
     slug: 'protecting-the-quality-of-life',
