@@ -1888,6 +1888,8 @@
   }
 
   .home-intro-image-frame {
+    order: -1;
+    margin-bottom: 20px;
     min-height: 220px;
   }
 
