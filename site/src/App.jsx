@@ -1,7 +1,7 @@
 import { Navigate, Route, Routes } from 'react-router-dom'
 import SiteLayout from './components/SiteLayout.jsx'
 import Home from './pages/Home.jsx'
-import Letters from './pages/Letters.jsx'
+import Impact from './pages/Impact.jsx'
 import Issues from './pages/Issues.jsx'
 import IssueArticle from './pages/IssueArticle.jsx'
 import About from './pages/About.jsx'
@@ -13,7 +13,7 @@ function App() {
     <Routes>
       <Route element={<SiteLayout />} path="/">
         <Route element={<Home />} index />
-        <Route element={<Letters />} path="letters" />
+        <Route element={<Impact />} path="impact" />
         <Route element={<Issues />} path="issues" />
         <Route element={<IssueArticle />} path="issues/:slug" />
         <Route element={<About />} path="about" />
